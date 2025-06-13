@@ -1,3 +1,4 @@
-do
-msgbox "ahhhhhhhhhhhhhhhhhhhhhhhhhhhh"
-loop
+Do
+    MsgBox "ahhhhhhhhhhhhhhhhhhhhhhhhhhhh" 
+Loop 
+
