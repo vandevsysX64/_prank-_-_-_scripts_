@@ -1,2 +1,38 @@
-# _prank-_-_-_scripts_
-prank your friends
+# prank scripts
+
+
+# This is for educational purposes only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# i do own the other prank scripts just i needed to make a cool name
